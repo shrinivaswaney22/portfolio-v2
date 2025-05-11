@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <header className={`navbar ${scrolled ? "scrolled" : "not-scrolled"}`}>
       <div className="inner">
-        <Link href="http://localhost:3000" className="logo">
+        <Link href="/" className="logo">
           S.R.W.
         </Link>
         <NavLinks/>
