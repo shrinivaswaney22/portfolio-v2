@@ -6,13 +6,13 @@ const Summary = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-white text-center mb-4">
             Who am I? ✨
           </h2>
-          <div className='md:flex-center lg:flex-center'>
+          <div className='md:flex-center lg:flex-center gap-5'>
             <div className="grid-2-cols gap-10 w-full items-center">
               <div className="w-100 h-100 flex justify-center">
                 <img
                 src="/portfolio.png"
                 alt="Shrinivas Portrait"
-                className="rounded-xl object-cover w-full h-full md:w-[80%] shadow-lg"
+                className="rounded-xl object-cover w-[80%]  shadow-lg"
                 />
               </div>
             </div>
