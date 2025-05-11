@@ -6,7 +6,7 @@ const Summary = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-white text-center mb-4">
             Who am I? ✨
           </h2>
-          <div className='flex-center sm:flex sm:flex-col sm:items-center sm:justify center md:flex md:flex-col md:items-center md:justify center'>
+          <div className='md:flex-center lg:flex-center'>
             <div className="grid-2-cols gap-10 w-full items-center">
               <div className="w-100 h-100 flex justify-center">
                 <img
