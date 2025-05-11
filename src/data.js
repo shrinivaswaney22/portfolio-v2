@@ -504,7 +504,6 @@ const navLinks = [
     counterItems,
     expCards,
     expLogos,
-    testimonials,
     socialImgs,
     techStackIcons,
     techStackImgs,
