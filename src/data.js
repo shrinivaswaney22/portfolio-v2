@@ -34,9 +34,9 @@ const navLinks = [
   
   const counterItems = [
     { value: 1, suffix: "+", label: "Years of Experience" },
-    { value: 64, suffix: "+", label: "Leetcode Problems" },
+    { value: 300, suffix: "+", label: "Leetcode Problems" },
     { value: 21, suffix: "+", label: "Completed Projects" },
-    { value: 77.08, suffix: "%", label: "Acceptance Rate" },
+    { value: 85, suffix: "%", label: "Acceptance Rate" },
   ];
   
   const logoIconsList = [
